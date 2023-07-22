@@ -20,9 +20,7 @@ A CS undergrad specialized in computer graphics and game development. My hobby i
 # Education
 ### Bachelor of Computer Science (Mobile Computing) - Sheridan College, Ontario, Canada
 Class taken: Algorithm & Data Structure, Theory of Computation, AI, Calc I, Stat, Discrete Math <br>
-GPA: 3.24/4.0
 ### Software Engineering Associate Degree - Sheridan College, Ontario, Canada
-GPA: 3.73/4.0
 
 # Skills
 #### Programming languages: 
