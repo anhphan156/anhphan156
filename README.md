@@ -1,5 +1,5 @@
 # 💫 About Me:
-A guy who loves writing code.<br>I'm currently learning low level coding stuffs such as embedded system.<br>I'm exploring many new ideas and my current topic is making a kernel.<br>I have strong knowledge in computer graphics and familiar with tools and APIS such as Raylib, OpenGL, Unity, and Unreal.
+A guy who loves writing code.<br>I'm currently learning low level coding stuffs such as embedded system.<br>I'm exploring many new ideas and my current topic is making a kernel.<br>I have strong knowledge in computer graphics and familiar with tools such as Raylib, OpenGL, Unity, and Unreal.
 
 
 ## 🌐 Socials:
