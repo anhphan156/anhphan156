@@ -32,3 +32,5 @@ Class taken: Algorithm & Data Structure, Theory of Computation, AI, Calc I, Stat
 - OpenGL
 
 Feel free to contact me at: anh.phan156@protonmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhphan156&show_icons=true&theme=tokyonight)
